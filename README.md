@@ -1,2 +1,2 @@
 # Code-Challenges-Java
-A repository of some cool code challenges I tried solving in Processing using Java
+Optimized load times and efficiency by converting some projects into Java, Processing's default language
